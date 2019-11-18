@@ -37,4 +37,9 @@ python复习
                 99.【Python模块和包】__all__变量的作用
         100.【Python模块和包】import语句原理(视频回顾+理解)
         101.【Pyton模块和包】循环引用(视频回顾+理解)
+        102.【Python模块和包】如何解决循环引用(视频回顾+理解)
+        104.【Python知识补充】pip使用详解(视频回顾)
+        108_property.py 2019/11/18 22:57
+            108.【Python知识补充】property装饰器
+        112.【虚拟环境】virtualenvwrapper讲解(视频回顾)
 ````
