@@ -44,5 +44,5 @@ python复习
         112.【虚拟环境】virtualenvwrapper讲解(视频回顾)
         113.【迭代器】迭代器和for循环底层原理 2019/11/19 23:26
             /iterator_demo
-                113_iterator_demo.py 19"00止
+                113_iterator_demo.py
 ````
