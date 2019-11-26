@@ -59,5 +59,12 @@ python复习
             119.【Python装饰器】被装饰的函数带有参数
             demo3.py 2019/11/25 23:43
             120.【Python装饰器】给装饰器传递参数
+            demo4.py 2019/11/26 22:44
+            121.【Python装饰器】wraps装饰器
+            flask_demo.py 2019/11/26 23:43
+            123.【Python装饰器】装饰器实现Flask的url映射
+        /oop_advance
+            demo1.py 2019/11/26 23:02
+            122.【Python面向对象进阶】动态添加属性和方法
         
 ````
