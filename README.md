@@ -63,6 +63,8 @@ python复习
             121.【Python装饰器】wraps装饰器
             flask_demo.py 2019/11/26 23:43
             123.【Python装饰器】装饰器实现Flask的url映射
+            demo5.py 2019/11/27 20:54
+            123.【Python装饰器】装饰器实现Flask的url映射
         /oop_advance
             demo1.py 2019/11/26 23:02
             122.【Python面向对象进阶】动态添加属性和方法
