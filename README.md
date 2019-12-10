@@ -109,4 +109,9 @@ python复习
             146.【Python多任务编程】Queue消息队列(进程)
             demo8.py 2019/12/09 23:08
             147.【Python多任务编程】Process进程间通信(进程)
+            demo9.py 2019/12/10 20:58
+            148.【Python多任务编程】Pool进程间通信(进程)
+        /thread_demo
+            demo1.py 2019/12/10 22:53
+            149.【多线程】多线程概念和threading模块介绍(线程)
 ````
